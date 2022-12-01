@@ -17,7 +17,7 @@ twitterCreator = "@henkis"
 
 ## Google Tag Manager
 gtm_id = "GTM-FWR4" # enter GTM container ID in format "GTM-XXXXXX"
-gtm_endpoint = "" # enter hostname of GTM server-side endpoint. if unavailable leave blank ""
+gtm_endpoint = "sgtm.henriksoderlund.com" # enter hostname of GTM server-side endpoint. if unavailable leave blank ""
 gtm_datalayer = "basic" # set value to "basic" to build and populate a dataLayer array with unique page metadata
 
 ## optional - Google Tag Manager Staging/Development Environment 
