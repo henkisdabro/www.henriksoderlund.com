@@ -72,7 +72,7 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1280x720 Center" # normalize image size
 
 # Footer
-footer = "Powered by <a href=\"https://pages.cloudflare.com/\">Cloudflare Pages</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://gethyas.com/\">Hyas</a>"
+footer = "Powered by <a href=\"https://pages.cloudflare.com/\" target=\"_blank\" >Cloudflare Pages</a>, <a href=\"https://gohugo.io/\" target=\"_blank\" >Hugo</a>, and <a href=\"https://gethyas.com/\" target=\"_blank\" >Hyas</a>"
 
 # Feed
 copyRight = "Copyright (c) 2022 Henrik Söderlund"

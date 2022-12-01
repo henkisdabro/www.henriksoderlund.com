@@ -15,5 +15,5 @@ Born a Swede, optimisation and problem-solving is in my genes, demonstrated in t
 
 ### More About Me 🙋🏻‍♂️
 
-<a class="btn btn-outline-dark px-3 py-2" href={{< ref "work-experience" >}} role="button">Work Experience</a> 
-<a class="btn btn-outline-dark px-3 py-2" href={{< ref "education" >}} role="button">Education</a>
+<a class="btn btn-outline-dark px-3 py-2" onclick="dataLayer.push({'event': 'navigation-button-click', 'navigation_button_name': 'work-experience'}); console.log('navigation button clicked');" role="button" href={{< ref "work-experience" >}} >Work Experience</a> 
+<a class="btn btn-outline-dark px-3 py-2" onclick="dataLayer.push({'event': 'navigation-button-click', 'navigation_button_name': 'education'}); console.log('navigation button clicked');" role="button" href={{< ref "education" >}}>Education</a>
