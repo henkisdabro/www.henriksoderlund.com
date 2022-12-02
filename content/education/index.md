@@ -7,7 +7,7 @@ draft: false
 images: []
 ---
 
-## Tertiary Education
+#### Tertiary Education
 
 **Malmoe, Sweden**
 
@@ -15,7 +15,7 @@ images: []
 
 Master of Music [M.Mus.] Instrument: Trombone at Lund University
 
-## Secondary Education
+#### Secondary Education
 
 **Malmoe, Sweden**
 
@@ -23,7 +23,7 @@ Master of Music [M.Mus.] Instrument: Trombone at Lund University
 
 Natural Sciences at Kattegattgymnasiet 
 
-## Primary Education
+#### Primary Education
 
 **Halmstad, Sweden**
 
@@ -32,3 +32,4 @@ Natural Sciences at Kattegattgymnasiet
 Elementary at Örjanskolan
 
 {{< request-resume-button >}}
+{{< navigation-home-button >}}

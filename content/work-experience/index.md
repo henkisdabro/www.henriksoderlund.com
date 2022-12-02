@@ -55,3 +55,4 @@ Orchestrated the conceptualization, development and subsequent launch of a Tag M
 - Performed with various symphony orchestras and music ensembles as a freelance trombonist & euphonium player across 20 countries, including tours to Japan, Europe and China, performances in the coveted Concertgebouw concert hall in Amsterdam, the Royal Castle in Stockholm, national television and radio as well as appearing on numerous CD recordings with the Malaysian Philharmonic Orchestra and the Malmo Fire Brigade Band as featured soloist.
 
 {{< request-resume-button >}}
+{{< navigation-home-button >}}
