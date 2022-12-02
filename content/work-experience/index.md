@@ -60,5 +60,6 @@ Orchestrated the conceptualization, development and subsequent launch of a Tag M
 
 {{< centered-navigation >}}
     {{< navigation-home-button >}}
+    {{< navigation-skills-button >}}
     {{< navigation-education-button >}}
 {{< /centered-navigation >}}

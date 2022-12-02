@@ -1,38 +1,37 @@
 # Meta Data for SEO
 
-## Homepage
+# Homepage
 title = "Henrik Söderlund"
 titleSeparator = "-"
 titleAddition = "Personal showcase"
 description = "Personal showcase, explorations and ideas"
 
-## Open Graph
+# Open Graph
 images = ["hyas.png"]
 ogLocale = "en_US"
 titleHome = "Henrik Söderlund"
 
-## Twitter Cards
+# Twitter Cards
 twitterSite = "@henkis"
 twitterCreator = "@henkis"
 
-## Google Tag Manager
+# Google Tag Manager
 gtm_id = "GTM-FWR4" # enter GTM container ID in format "GTM-XXXXXX"
-gtm_endpoint = "sgtm.henriksoderlund.com" # enter hostname of GTM server-side endpoint. if unavailable leave blank ""
+gtm_endpoint = "sgtm.henriksoderlund.com" # enter hostname of GTM server-side endpoint in format sub.domain.tld. if unavailable leave blank as ""
 gtm_datalayer = "basic" # set value to "basic" to build and populate a dataLayer array with unique page metadata
 
-## optional - Google Tag Manager Staging/Development Environment 
-### create an additional "environment" from within the GTM Admin interface 
-### extract the gtm_auth and gtm_preview query parameters from the 'src' URL query in the GTM snippet provided
-### this gtm environment snippet activates whenever the HUGO_ENVIRONMENT variable is not set to 'production'
+# optional - Google Tag Manager Staging/Development Environment 
+# create an additional "environment" from within the GTM Admin interface 
+# extract the gtm_auth and gtm_preview query parameters from the 'src' URL query in the GTM snippet provided
+# this gtm environment snippet activates whenever the HUGO_ENVIRONMENT variable is not set to 'production'
 gtm_env_param_gtm_auth = "dhxfPfIIp62NuQfRTdCd1w"
 gtm_env_param_gtm_preview = "env-8"
 
-## Other
+# Other
 wordCount = true
 
-## JSON-LD
+# JSON-LD
 schemaType = "Person"
-# schemaType = "Organization"
 schemaName = "Henrik Söderlund"
 schemaAuthor = "Henrik Söderlund"
 schemaAuthorTwitter = "https://twitter.com/henkis/"
@@ -46,10 +45,10 @@ schemaImage = "hyas.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/henkis/"
-schemaLinkedIn = ""
+schemaLinkedIn = "https://www.linkedin.com/in/henriksoderlund/"
 schemaGitHub = "https://github.com/henkisdabro/"
 
-## Chrome Browser
+# Chrome Browser
 themeColor = "#fff"
 
 # Images - Temporarily left in place for backward compatibility

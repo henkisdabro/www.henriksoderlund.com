@@ -37,5 +37,6 @@ Elementary at Örjanskolan
 
 {{< centered-navigation >}}
     {{< navigation-home-button >}}
+    {{< navigation-skills-button >}}
     {{< navigation-workexperience-button >}}
 {{< /centered-navigation >}}
