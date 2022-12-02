@@ -11,7 +11,7 @@ images: []
 
 A technologist to the core, I delve deep into systems, concepts, software, tools, services and methodologies to unravel new ways to improve productivity, team effectiveness and reduce friction in the workplace. I've accumulated a broad set of varying skills across a wide range of applications.
 
-##### General
+#### General
 
 `Linux, Windows & macOS`
 `System Integration`
@@ -19,7 +19,7 @@ A technologist to the core, I delve deep into systems, concepts, software, tools
 `Chatbots`
 `Audio/Video Codecs and Bitrates`
 
-##### Web & Development
+#### Web & Development
 
 `HTTP Requests`
 `HTML/CSS`
@@ -35,7 +35,7 @@ A technologist to the core, I delve deep into systems, concepts, software, tools
 `Magento`
 `Security Headers`
 
-##### Data Manipulation
+#### Data Manipulation
 
 `Advanced Spreadsheet Formulae`
 `Regular Expressions (RegEx)`
@@ -45,14 +45,14 @@ A technologist to the core, I delve deep into systems, concepts, software, tools
 `Google Datastudio`
 `Microsoft PowerBI`
 
-##### SAAS Setup & Configuration 
+#### SAAS Setup & Configuration 
 
 `Domain & DNS Configuration`
 `Google Workspace Administration`
 `Microsoft Office 365`
 `Email Security (DKIM, SPF, MTA-STS and DMARC)`
 
-##### Advertising
+#### Advertising
 
 `RTB Programmatic Media Buying`
 `DSP & DMP Management`
@@ -64,7 +64,7 @@ A technologist to the core, I delve deep into systems, concepts, software, tools
 `Google Merchant Center`
 `Product Catalogue RSS Feeds`
 
-##### Measurement
+#### Measurement
 
 `Advanced Google Tag Manager`
 `Server-Side Tagging (sGTM)`
@@ -75,13 +75,13 @@ A technologist to the core, I delve deep into systems, concepts, software, tools
 `Google Analytics 4`
 `Appsflyer`
 
-##### SEO
+#### SEO
 
 `Google Search Console`
 `JSON-LD Structured Data`
 `Screaming Frog`
 
-##### IT & Hardware
+#### IT & Hardware
 
 `Networking 'Homelab'`
 `Servers & VPS`
