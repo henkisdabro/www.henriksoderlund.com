@@ -7,7 +7,7 @@ draft: false
 images: []
 ---
 
-## Consultancy & Areas of Expertise 👷🏻‍♂️
+## 👷🏻‍♂️ Consultancy & Areas of Expertise 
 
 A technologist to the core, I delve deep into systems, concepts, software, tools, services adn methodologies to unravel new ways to improve productivity, team effectiveneness and reduce friction in the workplace. I've accumulated a broad set of varying skills across a wide range of applications.
 
@@ -19,12 +19,13 @@ A technologist to the core, I delve deep into systems, concepts, software, tools
 `Chatbots`
 `Audio/Video Codecs and Bitrates`
 
-##### Web & Web Dev
+##### Web & Development
 
 `HTTP Requests`
 `HTML/CSS`
 `Bootstrap`
 `Hugo`
+`Cloudflare Pages & Workers`
 `Git`
 `Github & Bitbucket`
 `Basic Devops`
@@ -92,7 +93,7 @@ A technologist to the core, I delve deep into systems, concepts, software, tools
 `Bitcoin Node`
 `Automation`
 
-## Notable Github Code Contributions 👩🏻‍💻
+## 👨🏻‍💻 Notable Github Code Contributions 
 
 #### 🔗 [Collection of Platform Click ID Parameters](https://github.com/cremedigital/platform-url-click-id-parameters)
 
@@ -110,13 +111,13 @@ Google Tag Manager Public Community template (submitted to Google) for the chat 
 
 Advanced integration of Google Tag Manager for the Hugo static site generator framwork. It includes a set of templates and shortcodes that supports the [environments feature](https://support.google.com/tagmanager/answer/6311518?hl=en) of Google Tag Manager that hooks into Hugo's staging/development mode. It also supports variables for server-side tagging and custom hostnames to serve the gtm.js script.
 
-## Advertising Platform Experience
+## 💹 Advertising Platform Experience
 
 Deep practical and theoretical experience with a plethora of self-serve advertising platforms, including attribution models, pixel implementation, Conversions API & server-to-server tracking. 
 
 `Meta` `Google Ads Search` `Google Ads Display` `Google Ads Performance Max` `Google Ads Youtube` `Google Ads Discovery` `Teads + Cookieless` `DV360` `Yahoo DSP` `TikTok Ads` `Zemanta` `Snapchat` `Spotify` `Linkedin` `Microsoft Bing` `Taboola` `Outbrain` `Quora` `Twitter Ads` `Reddit` `Tencent Global` `AdsMurai` `Near` `Waze`
 
-## Dashboards & Visualization
+## 📺 Dashboards & Visualization
 
 Well-versed with planning and building of interactive data visualization tools such as Looker Studio (prev. Google Datastudio) and Microsoft Power BI, coupled with data-ingestion services such as [Supermetrics](https://supermetrics.com/), Google Bigquery and SQL queries. 
 
@@ -141,7 +142,7 @@ Featured Build:
 [Eastspring Performance](https://datastudio.google.com/reporting/d8aa726c-cacc-45ea-97e8-17251c457f37/page/nVtSC)
  -->
 
-## Company Wiki
+## 📖 Company Wiki
 
 Using no-code tools such as Notion, Coda, Tana or Craft, below is a screenshot of an in-depth "Company Wiki" built to provide a knowledge base for company staff to find critical information pertaining to their role, such as claim forms, employee handbook, cheat sheets, guides and tutorials.
 
