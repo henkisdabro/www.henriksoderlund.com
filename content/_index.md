@@ -15,5 +15,6 @@ Born a Swede, optimisation and problem-solving is in my genes, demonstrated in t
 
 ### More About Me 🙋🏻‍♂️
 
+{{< navigation-skills-button >}}
 {{< navigation-workexperience-button >}}
 {{< navigation-education-button >}}
