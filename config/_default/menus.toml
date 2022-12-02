@@ -1,12 +1,12 @@
 [[main]]
   name = "GitHub"
   url = "https://github.com/henkisdabro/"
-  weight = 10
+  weight = 20
 
 [[sociallinkedin]]
   name = "LinkedIn"
   url = "https://www.linkedin.com/in/henriksoderlund/"
-  weight = 20
+  weight = 10
   icon = "linkedin"
 
 [[socialtwitter]]

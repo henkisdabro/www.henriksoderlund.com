@@ -6,15 +6,15 @@
   <div class="container">
     <a class="navbar-brand monospace" href="{{ "/" | absURL }}">{{ .Site.Params.Title }}</a>
     <div class="ms-auto">
-    {{ range .Site.Menus.main }}
+    {{ range .Site.Menus.sociallinkedin }}
       <span class="navbar-text">
-        <a href="{{ .URL }}">{{- .Name -}}</a>
+        <a href="{{ .URL }}" target="_blank">{{- .Name -}}</a>
       </span>
     {{ end }}
-    {{ range .Site.Menus.sociallinkedin }}
-    <span class="navbar-text">
-      <a href="{{ .URL }}">{{- .Name -}}</a>
-    </span>
+    {{ range .Site.Menus.main }}
+      <span class="navbar-text">
+        <a href="{{ .URL }}" target="_blank">{{- .Name -}}</a>
+      </span>
     {{ end }}
     </div>
   </div>
