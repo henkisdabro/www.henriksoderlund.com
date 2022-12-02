@@ -2,14 +2,14 @@
 title : "Skills"
 description: "Henrik Söderlund's Skills"
 date: 2022-11-22T08:42:22+08:00
-lastmod: 2022-12-02T22:51:22+08:00
+lastmod: 2022-12-02T23:51:22+08:00
 draft: false
 images: []
 ---
 
 ## 👷🏻‍♂️ Consultancy & Areas of Expertise 
 
-A technologist to the core, I delve deep into systems, concepts, software, tools, services adn methodologies to unravel new ways to improve productivity, team effectiveneness and reduce friction in the workplace. I've accumulated a broad set of varying skills across a wide range of applications.
+A technologist to the core, I delve deep into systems, concepts, software, tools, services and methodologies to unravel new ways to improve productivity, team effectiveness and reduce friction in the workplace. I've accumulated a broad set of varying skills across a wide range of applications.
 
 ##### General
 
@@ -144,7 +144,7 @@ Featured Build:
 
 ## 📖 Company Wiki
 
-Using no-code tools such as Notion, Coda, Tana or Craft, below is a screenshot of an in-depth "Company Wiki" built to provide a knowledge base for company staff to find critical information pertaining to their role, such as claim forms, employee handbook, cheat sheets, guides and tutorials.
+Using no-code tools such as Notion, Coda, Tana or Craft, below is a screenshot of an in-depth "Company Wiki" built as a knowledge base for company staff to find critical information pertaining to their role, such as claim forms, employee handbook, cheat sheets, guides and tutorials.
 
 ![](screely-1669119970117.png)
 
