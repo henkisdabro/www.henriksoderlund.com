@@ -21,7 +21,7 @@ Master of Music [M.Mus.] Instrument: Trombone at Lund University
 
 *1996–1999*
 
-Natural Sciences at Kattegattgymnasiet 
+Natural Sciences at Kattegattgymnasiet
 
 #### Primary Education
 
@@ -31,5 +31,11 @@ Natural Sciences at Kattegattgymnasiet
 
 Elementary at Örjanskolan
 
-{{< request-resume-button >}}
-{{< navigation-home-button >}}
+{{< centered-navigation >}}
+    {{< request-resume-button >}}
+{{< /centered-navigation >}}
+
+{{< centered-navigation >}}
+    {{< navigation-home-button >}}
+    {{< navigation-workexperience-button >}}
+{{< /centered-navigation >}}

@@ -7,7 +7,7 @@ draft: false
 images: []
 ---
 
-## Co-Founder & Head Of Ad Operations & Tech
+#### Co-Founder & Head Of Ad Operations & Tech
 
 **Creme Digital [Malaysia]**
 
@@ -24,7 +24,7 @@ Orchestrated the conceptualization, development and subsequent launch of a Tag M
 
 - Invited by Facebook as a featured agency panellist to a Kuala Lumpur-based small business event to share learnings with 50+ CEO’s and marketing professionals—boosted Creme Digital’s local reputation and directly generated new clients.
 
-## Business Consulting Manager
+#### Business Consulting Manager
 
 **CtrlShift [Malaysia]**
 
@@ -38,7 +38,7 @@ Orchestrated the conceptualization, development and subsequent launch of a Tag M
 
 - Ranked as a company top-3 presenter following a 2-day-intensive training course in audience presentation skills led by a 3rd-party training outfit.
 
-## ERP Sales Consultant & IT Department Manager
+#### ERP Sales Consultant & IT Department Manager
 
 **KSRS [Malaysia]**
 
@@ -46,7 +46,7 @@ Orchestrated the conceptualization, development and subsequent launch of a Tag M
 
 - Led the company’s business development efforts of a cloud-based Enterprise Resource Planning solution covering accounting, staffing, customer relations, sales pipeline, procurement and maintenance—presented to government, retail and construction clients as the first Ramco Cloud-ERP reseller in Malaysia.
 
-## Musician
+#### Musician
 
 **Various Employers [Globally]**
 
@@ -54,5 +54,11 @@ Orchestrated the conceptualization, development and subsequent launch of a Tag M
 
 - Performed with various symphony orchestras and music ensembles as a freelance trombonist & euphonium player across 20 countries, including tours to Japan, Europe and China, performances in the coveted Concertgebouw concert hall in Amsterdam, the Royal Castle in Stockholm, national television and radio as well as appearing on numerous CD recordings with the Malaysian Philharmonic Orchestra and the Malmo Fire Brigade Band as featured soloist.
 
-{{< request-resume-button >}}
-{{< navigation-home-button >}}
+{{< centered-navigation >}}
+    {{< request-resume-button >}}
+{{< /centered-navigation >}}
+
+{{< centered-navigation >}}
+    {{< navigation-home-button >}}
+    {{< navigation-education-button >}}
+{{< /centered-navigation >}}
