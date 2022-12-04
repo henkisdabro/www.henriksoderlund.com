@@ -3,7 +3,7 @@
 {{ $image := $image.Resize "x180 webp" }}
 <div class="row justify-content-center">
   <div class="col-lg-10 pb-2 text-center">  
-    <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+    <img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt="Henrik in a Suit and Beard Profile Picture" >
     <h1>{{ .Title }}</h1>
     <p>{{ .Params.Lead | safeHTML }}</p>
   </div>
