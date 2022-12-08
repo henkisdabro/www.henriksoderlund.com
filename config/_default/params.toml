@@ -7,7 +7,7 @@ titleAddition = "Personal showcase"
 description = "Personal showcase, explorations and ideas"
 
 # Open Graph
-images = ["hyas.png"]
+images = ["henrik.png"]
 ogLocale = "en_US"
 titleHome = "Henrik Söderlund"
 
@@ -38,10 +38,10 @@ schemaAuthorTwitter = "https://twitter.com/henkis/"
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/henriksoderlund/"
 schemaAuthorGitHub = "https://github.com/henkis/"
 schemaLocale = "en-US"
-schemaLogo = "logo-hyas.png"
+schemaLogo = "logo-henrik.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "hyas.png"
+schemaImage = "henrik.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/henkis/"
