@@ -6,8 +6,12 @@ https://:project.pages.dev/*
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   X-Content-Type-Options: nosniff
   X-XSS-Protection: 1; mode=block
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://sgtm.henriksoderlund.com https://tagmanager.google.com https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://tagmanager.google.com https://fonts.googleapis.com https://www.googletagmanager.com; img-src 'self' https://ssl.gstatic.com https://www.gstatic.com https://www.googletagmanager.com/ data:; font-src 'self' https://fonts.gstatic.com data:; connect-src 'self' https://sgtm.henriksoderlund.com; frame-src https://sgtm.henriksoderlund.com; manifest-src 'self'; base-uri 'self'; form-action 'self'; report-uri https://henriksoderlund.report-uri.com/r/d/csp/enforce; report-to default
   Report-To: {"group":"default","max_age":31536000,"endpoints":[{"url":"https://henriksoderlund.report-uri.com/a/d/g"}],"include_subdomains":true}
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://sgtm.henriksoderlund.com https://tagmanager.google.com https://www.googletagmanager.com; style-src 'self' 'unsafe-inline' https://tagmanager.google.com https://fonts.googleapis.com https://www.googletagmanager.com; img-src 'self' https://ssl.gstatic.com https://www.gstatic.com https://www.googletagmanager.com/ data:; font-src 'self' https://fonts.gstatic.com data:; connect-src 'self' https://sgtm.henriksoderlund.com; frame-src https://sgtm.henriksoderlund.com; manifest-src 'self'; base-uri 'self'; form-action 'self'; report-uri https://henriksoderlund.report-uri.com/r/d/csp/enforce; report-to default
+  Cross-Origin-Embedder-Policy-Report-Only:	require-corp; report-to="default"
+  Cross-Origin-Opener-Policy-Report-Only:	same-origin; report-to="default"
+  Cross-Origin-Resource-Policy:	same-site
+  NEL: {"report_to":"default","max_age":31536000,"include_subdomains":true}
   Permissions-Policy: geolocation=*, midi=(), sync-xhr=(), accelerometer=(), gyroscope=(), magnetometer=(), payment=(), camera=(), microphone=(), usb=(), xr-spatial-tracking=(), fullscreen=(self)
   X-Frame-Options: SAMEORIGIN
   Referrer-Policy: strict-origin
