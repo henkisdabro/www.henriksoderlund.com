@@ -93,7 +93,7 @@ A technologist to the core, I delve deep into systems, concepts, software, tools
 `Bitcoin Node`
 `Automation`
 
-## 👨🏻‍💻 Notable Github Code Contributions 
+## 👨🏻‍💻 Notable Ad Tech Contributions (github)
 
 #### 🔗 [Collection of Platform Click ID Parameters](https://github.com/cremedigital/platform-url-click-id-parameters)
 
@@ -109,7 +109,7 @@ Google Tag Manager Public Community template (submitted to Google) for the chat 
 
 #### 🔗 [GTM-integration-Hugo](https://github.com/henkisdabro/GTM-integration-Hugo)
 
-Advanced integration of Google Tag Manager for the Hugo static site generator framwork. It includes a set of templates and shortcodes that supports the [environments feature](https://support.google.com/tagmanager/answer/6311518?hl=en) of Google Tag Manager that hooks into Hugo's staging/development mode. It also supports variables for server-side tagging and custom hostnames to serve the gtm.js script.
+Advanced integration of Google Tag Manager for the Hugo static site generator framework. It includes a set of templates and shortcodes that supports the [environments feature](https://support.google.com/tagmanager/answer/6311518?hl=en) of Google Tag Manager that hooks into Hugo's staging/development mode. It also supports variables for server-side tagging and custom hostnames to serve the gtm.js script.
 
 ## 💹 Advertising Platform Experience
 
