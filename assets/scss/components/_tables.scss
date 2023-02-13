@@ -1,0 +1,20 @@
+table {
+  width: 100%;
+  background-color: #FFFFFF;
+  border-collapse: collapse;
+  border-width: 1px;
+  border-color: #828282;
+  border-style: solid;
+  color: #000000;
+}
+
+table td, table th {
+  border-width: 1px;
+  border-color: #828282;
+  border-style: solid;
+  padding: 5px;
+}
+
+table thead {
+  background-color: #D6D6D6;
+}
