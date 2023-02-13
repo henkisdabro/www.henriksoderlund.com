@@ -39,4 +39,5 @@ Halmstad, Sweden
     {{< navigation-home-button >}}
     {{< navigation-skills-button >}}
     {{< navigation-workexperience-button >}}
+    {{< navigation-consultation-button >}}
 {{< /centered-navigation >}}
