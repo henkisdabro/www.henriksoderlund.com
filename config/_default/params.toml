@@ -20,9 +20,9 @@ gtm_id = "GTM-FWR4" # enter GTM container ID in format "GTM-XXXXXX". This value 
 gtm_datalayer = "basic" # set value to "basic" to build and populate a dataLayer array with unique page metadata
 
 # Server-side GTM related
-gtm_endpoint = "sgtm.henriksoderlund.com" # enter hostname of GTM server-side endpoint in format sub.domain.tld. if unavailable leave blank as ""
+gtm_endpoint = "load.sgtm.henriksoderlund.com" # enter hostname of GTM server-side endpoint in format sub.domain.tld. if unavailable leave blank as ""
 use_custom_library_name = true # If this is set to true, ensure to set the gtm_library_name variable below and configure the GTM Custom Loader client template inside your ssGTM container
-gtm_library_name = "injection-container.js" # if using Simo Ahava's Custom GTM Loader template to enable changing the name of the GTM library, set the document name here. 
+gtm_library_name = "tyirczbv.js" # if using Simo Ahava's Custom GTM Loader template to enable changing the name of the GTM library, set the document name here. 
 override_container_id = true # Set this to true only if Simo Ahava's Custom GTM Loader client template is used and configured to "Override Container ID" where you have added your preferred GTM container ID. 
 
 # optional - Google Tag Manager Staging/Development Environment 
