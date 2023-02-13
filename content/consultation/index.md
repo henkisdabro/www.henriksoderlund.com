@@ -42,7 +42,7 @@ If the consult did not meet your expected standard, I’ll refund any fee paid, 
 ## 🗓️ Book a Slot on my Calendar
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/henriksoederlund" style="min-width:100%;height:800px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/henriksoederlund" style="min-width:100%;height:900px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 
