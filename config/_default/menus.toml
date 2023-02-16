@@ -13,3 +13,8 @@
   name = "Twitter"
   url = "https://twitter.com/henkis/"
   weight = 30
+
+[[socialmastodon]]
+  name = "Mastodon"
+  url = "https://masto.measure.chat/@henrik"
+  weight = 40
