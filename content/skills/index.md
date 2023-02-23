@@ -1,6 +1,6 @@
 ---
 title : "Skills"
-description: "Henrik Söderlund is a seasoned consultant with a wealth of expertise in tag management and digital analytics. Learn about his skills in Google Tag Manager and GA4, and how he can help you improve your online business."
+description: "Henrik Söderlund is a consultant specializing in tag management and digital analytics. Learn about his skills in GTM and GA4."
 date: 2022-11-22T08:42:22+08:00
 lastmod: 2022-12-02T23:51:22+08:00
 draft: false

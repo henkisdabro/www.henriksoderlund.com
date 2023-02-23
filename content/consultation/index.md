@@ -1,6 +1,6 @@
 ---
 title : "Consultation"
-description: "Henrik Söderlund is an experienced consultant specializing in Google Tag Manager and GA4. If you're looking for expert advice on tag management or digital analytics, Henrik can help you achieve your goals."
+description: "Henrik Söderlund is an experienced consultant in GTM and GA4. Get expert advice on tag management and digital analytics."
 date: 2023-02-13T08:42:22+08:00
 lastmod: 2023-02-13T08:42:22+08:00
 draft: false

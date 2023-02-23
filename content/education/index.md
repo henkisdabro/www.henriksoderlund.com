@@ -1,6 +1,6 @@
 ---
 title : "Ecucation"
-description: "Henrik Söderlund's expertise in Google Tag Manager and GA4 stems from years of education and practice. Learn about his academic background and how he has developed his skills in digital analytics and tag management."
+description: "Henrik Söderlund's expertise in GTM and GA4 comes from years of education and practice. Learn about his academic background and skills in digital analytics."
 date: 2022-11-22T08:42:22+08:00
 lastmod: 2022-12-21T08:42:22+08:00
 draft: false

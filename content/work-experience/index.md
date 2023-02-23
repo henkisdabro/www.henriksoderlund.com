@@ -1,6 +1,6 @@
 ---
 title : "Work Experience"
-description: "Henrik Söderlund has extensive experience in digital analytics and tag management. Learn about his past projects and how he has helped businesses like yours succeed online."
+description: "Henrik Söderlund has extensive experience in digital analytics and tag management. Learn how he has helped businesses with GTM and GA4."
 date: 2022-11-21T23:42:22+08:00
 lastmod: 2022-11-21T23:42:22+08:00
 draft: false
