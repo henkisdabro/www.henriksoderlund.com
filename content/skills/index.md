@@ -1,6 +1,6 @@
 ---
 title : "Skills"
-description: "Henrik Söderlund's Skills"
+description: "Henrik Söderlund is a seasoned consultant with a wealth of expertise in tag management and digital analytics. Learn about his skills in Google Tag Manager and GA4, and how he can help you improve your online business."
 date: 2022-11-22T08:42:22+08:00
 lastmod: 2022-12-02T23:51:22+08:00
 draft: false
@@ -125,7 +125,7 @@ Featured Build:
 
 **Campaign & Website Performance Dashboard**
 
-![](screely-1669110504856.png)
+![Campaign & Website Performance Dashboard in Looker Studio](screely-1669110504856.png)
 
 <!-- **Campaign Reporting Dashboard**
 
@@ -146,7 +146,7 @@ Featured Build:
 
 Using no-code tools such as Notion, Coda, Tana or Craft, below is a screenshot of an in-depth "Company Wiki" built as a knowledge base for company staff to find critical information pertaining to their role, such as claim forms, employee handbook, cheat sheets, guides and tutorials.
 
-![](screely-1669119970117.png)
+![Sample Screenshot of Company Wiki developed in Notion](screely-1669119970117.png)
 
 <!-- ## Ad Tech Proposals -->
 

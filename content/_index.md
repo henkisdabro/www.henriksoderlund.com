@@ -1,6 +1,6 @@
 ---
 title : "Henrik Söderlund"
-description: "showcase, explorations and ideas"
+description: "Explore Henrik Söderlund's passion for digital analytics and tag management. Learn about his consultancy services and get inspired by his expertise in Google Tag Manager and GA4."
 lead: "Co-Founder, Director, Head of Ad Operations & Technology @ Creme Digital | Ad Tech 🛠️ | Google Tag Manager & Google Analytics 📊 | Digital Advertising & Media Buying 📣 | Measurement & Data Visualization 📈"
 date: 2022-06-27T12:18:10+08:00
 lastmod: 2022-12-01T22:09:10+08:00
