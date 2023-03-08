@@ -2,7 +2,7 @@
 title : "Consultation"
 description: "Henrik Söderlund is an experienced consultant in GTM and GA4. Get expert advice on tag management and digital analytics."
 date: 2023-02-13T08:42:22+08:00
-lastmod: 2023-02-13T08:42:22+08:00
+lastmod: 2023-03-06T11:42:22+08:00
 draft: false
 images: []
 ---
@@ -13,15 +13,15 @@ If you need help with technology-related problems or ask questions about close-t
 
 - General Consultation, ask me anything!
 - Google Tag Manager
-    - Client Side solutions, custom integration
-    - Server-side setup and planning
-    - Troubleshooting and building of `dataLayer` solutions
+  - Client-side solutions, custom integration
+  - Server-side solutions, setup and planning
+  - Troubleshooting and building of `dataLayer` solutions
 - Google Analytics 4
-    - Audits
-    - Enhanced Ecommerce
-    - Migrations
-    - Measurement Plans
-    - Full Implementations
+  - Audits
+  - Migrations
+  - Measurement Plans
+  - Enhanced Ecommerce
+  - Full Implementations
 - Other knowledge areas from my [skills page](/skills/)
 
 ## 🪂 Zero Risk Policy
@@ -31,7 +31,7 @@ If the consult did not meet your expected standard, I’ll refund any fee paid, 
 ## 🎫 Appointment Prices & Duration
 
 | Service                           | Duration/Type | Price         |
-| ----------------------------------| --------------| --------------|
+| ----------------------------------| ------------- | ------------- |
 | General Questions                 | 30min         | AUD 100       |
 | GTM & GA Q/A or Feedback          | 30min         | AUD 150       |
 | GA4 Audit or Measurement Plan     | Fixed         | AUD 450       |
