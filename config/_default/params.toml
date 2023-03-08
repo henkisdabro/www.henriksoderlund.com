@@ -18,7 +18,7 @@ twitterCreator = "@henkis"
 # Google Tag Manager
 gtm_id = "GTM-FWR4" # enter GTM container ID in format "GTM-XXXXXX". This value is invalidated and redundant if the 'override_container_id' parameter below is set to true
 gtm_datalayer = "basic" # set value to "basic" to build and populate a dataLayer array with unique page metadata
-enable_gtm_in_staging = false # This enables/disables the GTM container on all dev/staging environments - this setting invalidate the optional 'gtm environment' settings below.
+disable_gtm_in_development = true # This disables the GTM container on non-production environments - this setting invalidate the optional 'gtm environment' settings below.
 
 # Server-side GTM related
 gtm_endpoint = "load.sgtm.henriksoderlund.com" # enter hostname of GTM server-side endpoint in format sub.domain.tld. if unavailable leave blank as ""
@@ -27,9 +27,12 @@ gtm_library_name = "tyirczbv.js" # if using Simo Ahava's Custom GTM Loader templ
 override_container_id = false # Set this to true only if Simo Ahava's Custom GTM Loader client template is used and configured to "Override Container ID" where you have added your preferred GTM container ID. Will drop the 'id=GTM=123456' part from the script src.
 
 # Optional - Google Tag Manager Staging/Development Environment 
+# enable or Disable the feature by setting the 'gtm_env_enable' flag to true
 # create an additional "environment" from within the GTM Admin interface 
 # extract the gtm_auth and gtm_preview query parameters from the 'src' URL query in the GTM snippet provided
 # this gtm environment snippet activates whenever the HUGO_ENVIRONMENT variable is not set to 'production'
+
+gtm_env_enable = true
 gtm_env_param_gtm_auth = "dhxfPfIIp62NuQfRTdCd1w"
 gtm_env_param_gtm_preview = "env-8"
 

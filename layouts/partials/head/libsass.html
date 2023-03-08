@@ -5,5 +5,5 @@
 {{ else -}}
   {{ $options := (dict "targetPath" "main.css" "transpiler" "libsass" "outputStyle" "compressed" "includePaths" (slice "node_modules")) -}}
   {{ $css = resources.Get . | toCSS $options | postCSS (dict "config" "config/postcss.config.js") | resources.Fingerprint "sha512" -}}
-{{ end -}}
-<link rel="stylesheet" href="{{ $css.Permalink | relURL }}" integrity="{{ $css.Data.Integrity }}" crossorigin="anonymous">
+{{ end }}
+  <link rel="stylesheet" href="{{ $css.Permalink | relURL }}" integrity="{{ $css.Data.Integrity }}" crossorigin="anonymous">
