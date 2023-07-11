@@ -2,22 +2,18 @@
 title : "Work Experience"
 description: "Henrik Söderlund has extensive experience in digital analytics and tag management. Learn how he has helped businesses with GTM and GA4."
 date: 2022-11-21T23:42:22+08:00
-lastmod: 2023-04-01T16:17:22+08:00
+lastmod: 2023-07-11T11:00:22+08:00
 draft: false
 images: []
 ---
 
-#### Group Performance Lead
-
-**Reprise Media [Australia]**
+## Group Performance Lead @ Reprise Media [Australia]
 
 *MAR 2023–PRESENT*
 
 - The role of GPL is a leadership position at Reprise, the digitally-led full-service performance agency within the Mediabrands Australia group, under the Interpublic Group (IPG). The position is grounded in driving team integration, performance marketing, thought leadership, new revenue opportunities and broad project management across enterprise level clients.
 
-#### Co-Founder & Head Of Ad Operations & Tech
-
-**Creme Digital [Malaysia]**
+## Co-Founder & Head Of Ad Operations & Tech @ Creme Digital [Malaysia]
 
 *JUL 2016–FEB 2023*
 
@@ -32,9 +28,7 @@ Orchestrated the conceptualization, development and subsequent launch of a Tag M
 
 - Invited by Facebook as a featured agency panellist to a Kuala Lumpur-based small business event to share learnings with 50+ CEO’s and marketing professionals—boosted Creme Digital’s local reputation and directly generated new clients.
 
-#### Business Consulting Manager
-
-**CtrlShift [Malaysia]**
+## Business Consulting Manager @ CtrlShift [Malaysia]
 
 *JAN 2014–JUL 2016*
 
@@ -46,17 +40,13 @@ Orchestrated the conceptualization, development and subsequent launch of a Tag M
 
 - Ranked as a company top-3 presenter following a 2-day-intensive training course in audience presentation skills led by a 3rd-party training outfit.
 
-#### ERP Sales Consultant & IT Department Manager
-
-**KSRS [Malaysia]**
+## ERP Sales Consultant & IT Department Manager @ KSRS [Malaysia]
 
 *JAN 2013–DEC 2013*
 
 - Led the company’s business development efforts of a cloud-based Enterprise Resource Planning solution covering accounting, staffing, customer relations, sales pipeline, procurement and maintenance—presented to government, retail and construction clients as the first Ramco Cloud-ERP reseller in Malaysia.
 
-#### Musician
-
-**Various Employers [Globally]**
+## Musician @ Various Employers [Globally]
 
 *2006–2012*
 
