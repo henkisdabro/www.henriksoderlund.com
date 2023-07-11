@@ -2,7 +2,7 @@
 title : "Skills"
 description: "Henrik Söderlund is a consultant specializing in tag management and digital analytics. Learn about his skills in GTM and GA4."
 date: 2022-11-22T08:42:22+08:00
-lastmod: 2022-12-02T23:51:22+08:00
+lastmod: 2023-07-11T10:49:22+08:00
 draft: false
 images: []
 ---
@@ -95,15 +95,15 @@ A technologist to the core, I delve deep into systems, concepts, software, tools
 
 ## 👨🏻‍💻 Notable Ad Tech Contributions (github)
 
-#### 🔗 [Collection of Platform Click ID Parameters](https://github.com/cremedigital/platform-url-click-id-parameters)
+#### 🔗 [Collection of Platform Click ID Parameters](https://github.com/henkisdabro/platform-url-click-id-parameters)
 
 Collation of global list of URL parameter fur use as exclusion, inclusion, filtering of analytics and/or ad platform pixel trigger critera.
 
-#### 🔗 [IPmeta Tag Template for GA4](https://github.com/cremedigital/gtm-templates-ipmeta-ga4)
+#### 🔗 [IPmeta Tag Template for GA4](https://github.com/henkisdabro/gtm-templates-ipmeta-ga4)
 
 Google Tag Manager Public Community template (submitted to Google) for the great spam and bot traffic filter service provided by IpMeta.
 
-#### 🔗 [Google Chat Tag Template & Formatting Guideline](https://github.com/cremedigital/gtm-templates-web-google-chat-webhook)
+#### 🔗 [Google Chat Tag Template & Formatting Guideline](https://github.com/henkisdabro/gtm-templates-web-google-chat-webhook)
 
 Google Tag Manager Public Community template (submitted to Google) for the chat service within Google Workspace (and gmail), which can be used to communicate website actions, such as conversions or form submissions, in real-time to client or agency teams, for faster visibility of ad performance and help troubleshoot issues with ease.
 
