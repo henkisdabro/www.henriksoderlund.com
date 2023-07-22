@@ -2,24 +2,55 @@
 title : "Skills"
 description: "Henrik Söderlund is a consultant specializing in tag management and digital analytics. Learn about his skills in GTM and GA4."
 date: 2022-11-22T08:42:22+08:00
-lastmod: 2023-07-11T10:49:22+08:00
+lastmod: 2023-07-22T14:34:22+08:00
 draft: false
 images: []
 ---
 
-## 👷🏻‍♂️ Consultancy & Areas of Expertise 
+## 👷🏻‍♂️ Consultancy & Areas of Expertise
 
 A technologist to the core, I delve deep into systems, concepts, software, tools, services and methodologies to unravel new ways to improve productivity, team effectiveness and reduce friction in the workplace. I've accumulated a broad set of varying skills across a wide range of applications.
 
-#### General
+### Advertising
 
-`Linux, Windows & macOS`
-`System Integration`
-`Notion & Coda.io`
-`Chatbots`
-`Audio/Video Codecs and Bitrates`
+`RTB Programmatic Media Buying`
+`DSP & DMP Management`
+`Cookieless & Privacy`
+`Tracking Templates & UTM`
+`Google Ads Script`
+`Email Marketing Configuration`
+`Impression, Click & Ad Tags`
+`Google Merchant Center`
+`Product Catalogue RSS Feeds`
 
-#### Web & Development
+### Measurement
+
+`Advanced Google Tag Manager`
+`Server-Side Tagging (sGTM)`
+`Meta Conversions API`
+`Adobe Analytics`
+`Amplitude`
+`Google Universal Analytics`
+`Google Analytics 4`
+`Appsflyer`
+
+### SEO
+
+`Google Search Console`
+`JSON-LD Structured Data`
+`Screaming Frog`
+
+### Data Manipulation
+
+`Advanced Spreadsheet Formulae`
+`Regular Expressions (RegEx)`
+`Databases (SQL)`
+`SQL queries`
+`Google BigQuery`
+`Google Datastudio`
+`Microsoft PowerBI`
+
+### Web & Development
 
 `HTTP Requests`
 `HTML/CSS`
@@ -35,53 +66,22 @@ A technologist to the core, I delve deep into systems, concepts, software, tools
 `Magento`
 `Security Headers`
 
-#### Data Manipulation
+### General
 
-`Advanced Spreadsheet Formulae`
-`Regular Expressions (RegEx)`
-`Databases (SQL)`
-`SQL queries`
-`Google BigQuery`
-`Google Datastudio`
-`Microsoft PowerBI`
+`Linux, Windows & macOS`
+`System Integration`
+`Notion & Coda.io`
+`Chatbots`
+`Audio/Video Codecs and Bitrates`
 
-#### SAAS Setup & Configuration 
+### SAAS Setup & Configuration
 
 `Domain & DNS Configuration`
 `Google Workspace Administration`
 `Microsoft Office 365`
 `Email Security (DKIM, SPF, MTA-STS and DMARC)`
 
-#### Advertising
-
-`RTB Programmatic Media Buying`
-`DSP & DMP Management`
-`Cookieless & Privacy`
-`Tracking Templates & UTM`
-`Google Ads Script`
-`Email Marketing Configuration`
-`Impression, Click & Ad Tags`
-`Google Merchant Center`
-`Product Catalogue RSS Feeds`
-
-#### Measurement
-
-`Advanced Google Tag Manager`
-`Server-Side Tagging (sGTM)`
-`Meta Conversions API`
-`Adobe Analytics`
-`Amplitude`
-`Google Universal Analytics`
-`Google Analytics 4`
-`Appsflyer`
-
-#### SEO
-
-`Google Search Console`
-`JSON-LD Structured Data`
-`Screaming Frog`
-
-#### IT & Hardware
+### IT & Hardware
 
 `Networking 'Homelab'`
 `Servers & VPS`
@@ -93,29 +93,29 @@ A technologist to the core, I delve deep into systems, concepts, software, tools
 `Bitcoin Node`
 `Automation`
 
+## 💹 Advertising Platform Experience
+
+Deep practical and theoretical experience with a plethora of self-serve advertising platforms, including attribution models, pixel implementation, Conversions API & server-to-server tracking.
+
+`Meta` `Google Ads Search` `Google Ads Display` `Google Ads Performance Max` `Google Ads Youtube` `Google Ads Discovery` `Teads + Cookieless` `DV360` `Yahoo DSP` `TikTok Ads` `Zemanta` `Snapchat` `Spotify` `Linkedin` `Microsoft Bing` `Taboola` `Outbrain` `Quora` `Twitter Ads` `Reddit` `Tencent Global` `AdsMurai` `Near` `Waze`
+
 ## 👨🏻‍💻 Notable Ad Tech Contributions (github)
 
-#### 🔗 [Collection of Platform Click ID Parameters](https://github.com/henkisdabro/platform-url-click-id-parameters)
+### 🔗 [Collection of Platform Click ID Parameters](https://github.com/henkisdabro/platform-url-click-id-parameters)
 
 Collation of global list of URL parameter fur use as exclusion, inclusion, filtering of analytics and/or ad platform pixel trigger critera.
 
-#### 🔗 [IPmeta Tag Template for GA4](https://github.com/henkisdabro/gtm-templates-ipmeta-ga4)
+### 🔗 [IPmeta Tag Template for GA4](https://github.com/henkisdabro/gtm-templates-ipmeta-ga4)
 
 Google Tag Manager Public Community template (submitted to Google) for the great spam and bot traffic filter service provided by IpMeta.
 
-#### 🔗 [Google Chat Tag Template & Formatting Guideline](https://github.com/henkisdabro/gtm-templates-web-google-chat-webhook)
+### 🔗 [Google Chat Tag Template & Formatting Guideline](https://github.com/henkisdabro/gtm-templates-web-google-chat-webhook)
 
 Google Tag Manager Public Community template (submitted to Google) for the chat service within Google Workspace (and gmail), which can be used to communicate website actions, such as conversions or form submissions, in real-time to client or agency teams, for faster visibility of ad performance and help troubleshoot issues with ease.
 
-#### 🔗 [GTM-integration-Hugo](https://github.com/henkisdabro/GTM-integration-Hugo)
+### 🔗 [GTM-integration-Hugo](https://github.com/henkisdabro/GTM-integration-Hugo)
 
 Advanced integration of Google Tag Manager for the Hugo static site generator framework. It includes a set of templates and shortcodes that supports the [environments feature](https://support.google.com/tagmanager/answer/6311518?hl=en) of Google Tag Manager that hooks into Hugo's staging/development mode. It also supports variables for server-side tagging and custom hostnames to serve the gtm.js script.
-
-## 💹 Advertising Platform Experience
-
-Deep practical and theoretical experience with a plethora of self-serve advertising platforms, including attribution models, pixel implementation, Conversions API & server-to-server tracking. 
-
-`Meta` `Google Ads Search` `Google Ads Display` `Google Ads Performance Max` `Google Ads Youtube` `Google Ads Discovery` `Teads + Cookieless` `DV360` `Yahoo DSP` `TikTok Ads` `Zemanta` `Snapchat` `Spotify` `Linkedin` `Microsoft Bing` `Taboola` `Outbrain` `Quora` `Twitter Ads` `Reddit` `Tencent Global` `AdsMurai` `Near` `Waze`
 
 ## 📺 Dashboards & Visualization
 
@@ -169,12 +169,8 @@ Audits and/or Full-scale enterprise GA+GTM deployments, including pre-sales, cli
 
 [IACT](https://drive.google.com/file/d/0B81tM5ZvIB45OFBSbVY3eDFYNXc/view?resourcekey=0-W6kE-R_Z_Uystr7fDLhhGQ)
 
-
 ## Advertising & MarTech Training & Mentorship 🎓 
 -->
-
-
-
 
 <!-- ## Development of Agency Tracking System 🎲
 
@@ -201,7 +197,6 @@ Development, Iteration and Maintenance of Agency Campaign Tracker and Financial 
 - Campaign Setup Flowchart [via the Setup Flow Chart](https://drive.google.com/drive/u/0/folders/1Y3xatDxiQdVHkmvaUfGC9oAjTO6iY5nJ)
 
 - Cheat sheets such as [Folder Naming Conventions](https://drive.google.com/file/d/1owpjEoHlNdV9VetcPv9PtomgF-hsoL-q/view) or [Reporting Style Guide & Fonts](https://docs.google.com/presentation/d/1wwcXg3NSMBjhpAOH24OEt5wdE2OJ7tox1Pg7YNLv0vM/edit#slide=id.g11fc4bb7b01_2_2) -->
-
 
 {{< centered-navigation >}}
     {{< request-resume-button >}}
