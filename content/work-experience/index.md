@@ -2,14 +2,20 @@
 title : "Work Experience"
 description: "Henrik Söderlund has extensive experience in digital analytics and tag management. Learn how he has helped businesses with GTM and GA4."
 date: 2022-11-21T23:42:22+08:00
-lastmod: 2023-07-22T14:23:22+08:00
+lastmod: 2023-10-03T17:59:10+08:00
 draft: false
 images: []
 ---
 
+## Media Activations Lead – Initiative Perth @ KINESSO [Australia]
+
+*OCT 2023–PRESENT*
+
+- Heading up the performance and addressable activation teams at KINESSO, supporting Initiative Perth.
+
 ## Group Performance Lead @ Reprise Digital [Australia]
 
-*MAR 2023–PRESENT*
+*MAR 2023–SEP 2023*
 
 - A leadership position at Reprise Digital Australia, the digitally-led full-service digital performance, advertising and solutions agency within the Mediabrands Australia group, under the Interpublic Group (IPG), managing the Perth office team. The job scope involves driving team integration, thought leadership across digital advertising, media strategy/buying and martech solutions, new revenue opportunities and broad project management across enterprise level clients whilst collaborating closely with the teams at Initiative.
 
