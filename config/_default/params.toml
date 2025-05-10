@@ -19,7 +19,7 @@ twitterCreator = "@henkis"
 gtm_id = "6at4snq=aWQ9R1RNLUZXUjQ%3D&page=1" # Enter GTM container ID. This value is invalidated and redundant if the 'override_container_id' parameter below is set to true
 gtm_id_noscript = "GTM-FWR4" # Enter GTM container ID. This is usually the same as gtm_id, but can in some cases be different.
 gtm_datalayer = "basic" # set value to "basic" to build and populate a dataLayer array with unique page metadata
-disable_gtm_in_development = true # This disables the GTM container on non-production environments - this setting invalidate the optional 'gtm environment' settings below.
+disable_gtm_in_development = false # This disables the GTM container on non-production environments - this setting invalidate the optional 'gtm environment' settings below.
 
 # Server-side GTM related
 gtm_endpoint = "load.sgtm.henriksoderlund.com" # enter hostname of GTM server-side endpoint in format sub.domain.tld. if unavailable leave blank as ""
