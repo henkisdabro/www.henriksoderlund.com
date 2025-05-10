@@ -1,18 +1,18 @@
 ---
 title : "Henrik Söderlund"
 description: "Explore Henrik Söderlund's expertise in digital analytics and tag management. Learn about his consultancy services in GTM and GA4."
-lead: "Ex-Founder of Creme Digital | Ad Tech 🛠️ | Google Tag Manager & Google Analytics 📊 | Server-Side Tagging | Digital Advertising & Media Buying 📣 | Measurement & Data Visualization 📈"
+lead: "Digital Media & AdTech Leader 👔 | Strategic Team Leadership ⚽ | Ex-Founder of Creme Digital 📈</br>Marketing Technology 🛠️ | Measurement & Data Visualization ⏱️ "
 date: 2022-06-27T12:18:10+08:00
-lastmod: 2023-10-03T17:59:10+08:00
+lastmod: 2025-05-10T18:48:22+08:00
 draft: false
 images: []
 ---
 
 ## Hello! 👋🏼
 
-I’m Henrik Söderlund, Media Activations Lead – Initiative Perth @ [KINESSO](https://kinesso.com). As ex-founder and technical lead of award-winning boutique media agency [Creme Digital](https://www.cremedigital.com?utm_source=www.henriksoderlund.com&utm_medium=referral) I bring deep experience in building and leading effective teams that manage RTB Programmatic, Search, Social, Mobile and Video advertising whilst injecting personal edge expertise in advanced ad performance tracking, measurement & server-side tagging/analytics.
+I’m Henrik Söderlund, Media Activations Lead – [Initiative](https://initiative.com/) Perth via [KINESSO](https://kinesso.com), part of the [Interpublic Group](https://www.interpublic.com/). As the former founder and technical lead of the award-winning boutique media agency [Creme Digital](https://www.cremedigital.com?utm_source=www.henriksoderlund.com&utm_medium=referral) I bring comprehensive expertise in building and leading high-performance teams across Addressable (Programmatic) and Performance advertising channels. My distinctive edge lies in advanced ad performance tracking, measurement architecture, and server-side tagging/analytics implementation.
 
-Born a Swede, optimisation and problem-solving is in my genes, demonstrated in the fruition of agency performance tracking solutions, operational processes and SOPs. My wide-ranging technology- and systems skillset enables us to manage annual multi-million dollar media budgets with impressive accuracy whilst keeping operational expenditure to a minimum.
+Swedish-born with optimization in my DNA, I've consistently delivered innovative solutions through custom agency performance tracking systems, streamlined operational processes, and effective SOPs. My versatile technology and systems proficiency enables precise management of multi-million dollar annual media budgets while maintaining exceptional resource efficiency and cost control.
 
 ### More About Me 🙋🏻‍♂️
 

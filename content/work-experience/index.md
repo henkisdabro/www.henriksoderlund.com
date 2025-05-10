@@ -2,7 +2,7 @@
 title : "Work Experience"
 description: "Henrik Söderlund has extensive experience in digital analytics and tag management. Learn how he has helped businesses with GTM and GA4."
 date: 2022-11-21T23:42:22+08:00
-lastmod: 2023-10-03T17:59:10+08:00
+lastmod: 2025-05-10T18:56:10+08:00
 draft: false
 images: []
 ---
@@ -11,7 +11,7 @@ images: []
 
 *OCT 2023–PRESENT*
 
-- Heading up the performance and addressable activation teams at KINESSO, supporting Initiative Perth.
+- As Media Activations Lead at KINESSO & Initiative Perth, I spearhead performance and addressable activation teams while delivering operational excellence, digital media consulting, and strategic MarTech and AI guidance across Western Australia. Key achievements include successfully rebuilding a high-turnover team during challenging market conditions, implementing sustainable talent development frameworks, establishing cross-functional workflows between media and analytics teams, and contributing to thought leadership that earned MFA "Changer" recognition in 2024. Working closely with Initiative's Head of Perth, I continuously align team capabilities with evolving client requirements, simultaneously driving business growth and maintaining exceptional service quality through periods of organizational change.
 
 ## Group Performance Lead @ Reprise Digital [Australia]
 
@@ -55,7 +55,7 @@ images: []
 
 *2006–2012*
 
-- Performed with various symphony orchestras and music ensembles as a freelance trombonist & euphonium player across 20 countries, including tours to Japan, Europe and China, performances in the coveted Concertgebouw concert hall in Amsterdam, the Royal Castle in Stockholm, national television and radio as well as appearing on numerous CD recordings with the Malaysian Philharmonic Orchestra and the Malmo Fire Brigade Band as featured soloist.
+- Distinguished freelance trombonist and euphonium player with performances alongside prestigious symphony orchestras and music ensembles across five continents, spanning 20 countries. Notable engagements include international tours of Japan, Europe, and China, with appearances at world-renowned venues such as Amsterdam's Concertgebouw and the Royal Castle in Stockholm. My musical career encompasses national television and radio broadcasts, alongside featured soloist recordings with the Malaysian Philharmonic Orchestra and the Malmö Fire Brigade Band, establishing a diverse and accomplished performance portfolio.
 
 {{< centered-navigation >}}
     {{< request-resume-button >}}
