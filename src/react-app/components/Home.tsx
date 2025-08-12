@@ -30,10 +30,10 @@ const Home: React.FC = () => {
       <section className="navigation-section">
         <h3>More About Me 🙋🏻‍♂️</h3>
         <div className="more-about-navigation">
-          <Link to="/skills" className="nav-button primary">Skills</Link>
-          <Link to="/work-experience" className="nav-button primary">Work Experience</Link>
-          <Link to="/education" className="nav-button primary">Education</Link>
-          <Link to="/consultation" className="nav-button primary">Consultation</Link>
+          <Link to="/skills" className="nav-button primary">🛠️ Skills</Link>
+          <Link to="/work-experience" className="nav-button primary">💼 Work Experience</Link>
+          <Link to="/education" className="nav-button primary">🎓 Education</Link>
+          <Link to="/consultation" className="nav-button primary">💬 Consultation</Link>
         </div>
       </section>
     </div>

@@ -6,19 +6,15 @@ import Skills from './components/Skills';
 import WorkExperience from './components/WorkExperience';
 import Education from './components/Education';
 import Consultation from './components/Consultation';
+import Footer from './components/Footer';
+import NavigationBox from './components/NavigationBox';
 import "./App.css";
 
 function App() {
   return (
     <Router>
       <div className="app">
-        <nav className="navigation">
-          <Link to="/" className="nav-link">Home</Link>
-          <Link to="/skills" className="nav-link">Skills</Link>
-          <Link to="/work-experience" className="nav-link">Work Experience</Link>
-          <Link to="/education" className="nav-link">Education</Link>
-          <Link to="/consultation" className="nav-link">Consultation</Link>
-        </nav>
+        <NavigationBox />
         
         <main className="main-content">
           <Routes>
@@ -29,6 +25,8 @@ function App() {
             <Route path="/consultation" element={<Consultation />} />
           </Routes>
         </main>
+        
+        <Footer />
       </div>
     </Router>
   );
