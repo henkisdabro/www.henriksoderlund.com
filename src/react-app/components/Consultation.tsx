@@ -1,5 +1,4 @@
 import React from 'react';
-import Navigation from './Navigation';
 
 const Consultation: React.FC = () => {
   return (
@@ -96,7 +95,6 @@ const Consultation: React.FC = () => {
         </div>
       </section>
 
-      <Navigation excludePage="consultation" />
     </div>
   );
 };

@@ -1,5 +1,4 @@
 import React from 'react';
-import Navigation from './Navigation';
 
 const Education: React.FC = () => {
   return (
@@ -27,7 +26,6 @@ const Education: React.FC = () => {
         <p>Halmstad, Sweden</p>
       </section>
 
-      <Navigation showResumeButton={true} excludePage="education" />
     </div>
   );
 };

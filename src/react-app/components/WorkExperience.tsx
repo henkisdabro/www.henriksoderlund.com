@@ -1,5 +1,4 @@
 import React from 'react';
-import Navigation from './Navigation';
 
 const WorkExperience: React.FC = () => {
   return (
@@ -61,7 +60,6 @@ const WorkExperience: React.FC = () => {
         </ul>
       </section>
 
-      <Navigation showResumeButton={true} excludePage="work-experience" />
     </div>
   );
 };

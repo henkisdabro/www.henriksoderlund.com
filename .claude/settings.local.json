@@ -11,7 +11,8 @@
       "WebFetch(domain:docs.thulite.io)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(rd:*)"
+      "Bash(rd:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []

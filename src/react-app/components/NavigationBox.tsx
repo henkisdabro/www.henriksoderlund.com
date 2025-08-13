@@ -8,7 +8,7 @@ interface HeadingItem {
 }
 
 const NavigationBox: React.FC = () => {
-  const [isCollapsed, setIsCollapsed] = useState(false);
+  const [isCollapsed, setIsCollapsed] = useState(window.innerWidth <= 1024);
   const [headings, setHeadings] = useState<HeadingItem[]>([]);
   const location = useLocation();
 
@@ -47,15 +47,35 @@ const NavigationBox: React.FC = () => {
       setHeadings(headingItems);
     };
 
+    // Handle responsive collapse state
+    const handleResize = () => {
+      if (window.innerWidth <= 1024) {
+        setIsCollapsed(true);
+      } else {
+        setIsCollapsed(false);
+      }
+    };
+
     // Scan headings after component mounts and when route changes
     const timeout = setTimeout(scanHeadings, 100);
-    return () => clearTimeout(timeout);
+    
+    // Add resize listener
+    window.addEventListener('resize', handleResize);
+    
+    return () => {
+      clearTimeout(timeout);
+      window.removeEventListener('resize', handleResize);
+    };
   }, [location.pathname]);
 
   const scrollToHeading = (id: string) => {
     const element = document.getElementById(id);
     if (element) {
       element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+    // Close menu on mobile after navigation
+    if (window.innerWidth <= 1024) {
+      setIsCollapsed(true);
     }
   };
 
@@ -84,7 +104,14 @@ const NavigationBox: React.FC = () => {
             <ul className="nav-list">
               {pages.map(page => (
                 <li key={page.path} className={location.pathname === page.path ? 'active' : ''}>
-                  <Link to={page.path}>
+                  <Link 
+                    to={page.path}
+                    onClick={() => {
+                      if (window.innerWidth <= 1024) {
+                        setIsCollapsed(true);
+                      }
+                    }}
+                  >
                     {page.emoji} {page.name}
                   </Link>
                 </li>

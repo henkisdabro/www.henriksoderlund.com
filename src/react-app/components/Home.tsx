@@ -12,8 +12,7 @@ const Home: React.FC = () => {
         />
         <h1>Henrik Söderlund</h1>
         <p className="lead">
-          Digital Media & AdTech Leader 👔 | Strategic Team Leadership ⚽ | Ex-Founder of Creme Digital 📈<br/>
-          Marketing Technology 🛠️ | Measurement & Data Visualization ⏱️
+          Digital Media & AdTech Leader | Strategic Team Leadership | Ex-Founder of Creme Digital | Marketing Technology | Measurement & Data Visualization
         </p>
       </div>
 
@@ -27,15 +26,6 @@ const Home: React.FC = () => {
         </p>
       </section>
 
-      <section className="navigation-section">
-        <h3>More About Me 🙋🏻‍♂️</h3>
-        <div className="more-about-navigation">
-          <Link to="/skills" className="nav-button primary">🛠️ Skills</Link>
-          <Link to="/work-experience" className="nav-button primary">💼 Work Experience</Link>
-          <Link to="/education" className="nav-button primary">🎓 Education</Link>
-          <Link to="/consultation" className="nav-button primary">💬 Consultation</Link>
-        </div>
-      </section>
     </div>
   );
 };
